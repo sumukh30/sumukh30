@@ -169,3 +169,11 @@ Full-stack web portal serving 13M+ users at Oracle — REST APIs, frontend syste
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<div align="center">
+
+*Building things that matter — one commit at a time.*
+
+</div>
