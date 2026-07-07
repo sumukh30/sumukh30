@@ -140,11 +140,9 @@ Full-stack web portal serving 13M+ users at Oracle — REST APIs, frontend syste
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumukh30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumukh30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumukh30&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 🎓 Education & Experience
