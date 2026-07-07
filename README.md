@@ -27,8 +27,8 @@ sumukh = {
 }
 ```
 
-> I bring **production engineering discipline** to AI/ML — having built and scaled enterprise systems before transitioning to building production-grade AI systems.  
-> I don't just train models. I ship them.
+> 🔩 I bring **production engineering discipline** to AI/ML — having built and scaled enterprise systems before transitioning to building production-grade AI systems.  
+> ⚡ I don't just train models. I ship them.
 
 ---
 
