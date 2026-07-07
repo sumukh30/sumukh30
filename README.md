@@ -171,7 +171,7 @@ Full-stack web portal serving 13M+ users at Oracle — REST APIs, frontend syste
 
 </div>
 
-
+---
 
 <div align="center">
 
