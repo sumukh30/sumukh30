@@ -22,13 +22,12 @@ sumukh = {
     "currently"  : "MS Computer Science @ University of Illinois Chicago (GPA: 4.0)",
     "background" : "2+ years Full-Stack Engineering @ Oracle",
     "focus"      : ["LLM Fine-Tuning", "Agentic AI", "Computer Vision", "RAG Systems"],
-    "built_at"   : "Google Cloud Rapid Agent Hackathon 2026",
     "looking_for": "AI/ML Engineering | Full-Stack Engineering roles",
     "location"   : "Chicago, IL"
 }
 ```
 
-> I bring **production engineering discipline** to AI/ML — having built and scaled enterprise systems before transitioning into machine learning, agentic AI, and computer vision.  
+> I bring **production engineering discipline** to AI/ML — having built and scaled enterprise systems before transitioning to building production-grade AI systems.  
 > I don't just train models. I ship them.
 
 ---
@@ -42,7 +41,7 @@ sumukh = {
 ### 🤖 DataTalk — NL-to-SQL BI Agent
 **Google Cloud Rapid Agent Hackathon 2026**
 
-A multi-step agentic system that lets non-technical users query business data in plain English — no SQL required.
+A multi-step agentic system that lets non-technical users query business data in plain English — no SQL required. Built at the "Google Cloud Rapid Agent Hackathon 2026". 
 
 **7-step reasoning pipeline:**  
 `Schema Introspection` → `5 SQL Candidates` → `BigQuery Execution` → `Quality Ranking` → `Human Approval` → `Insight Generation` → `History Logging`
