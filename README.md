@@ -164,13 +164,13 @@ Full-stack web portal serving 13M+ users at Oracle — REST APIs, frontend syste
 
 ---
 
+
+
 <div align="center">
 
 *Building things that matter — one commit at a time.*
 
 </div>
-
----
 
 <div align="center">
 
