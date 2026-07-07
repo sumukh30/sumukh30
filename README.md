@@ -136,15 +136,6 @@ Full-stack web portal serving 13M+ users at Oracle — REST APIs, frontend syste
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sumukh30&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
----
-
 ## 🎓 Education & Experience
 
 | | |
