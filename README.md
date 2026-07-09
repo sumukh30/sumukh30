@@ -21,7 +21,7 @@ sumukh = {
     "currently"  : "MS Computer Science @ University of Illinois Chicago (GPA: 4.0)",
     "background" : "2+ years Full-Stack Engineering @ Oracle",
     "focus"      : ["LLM Fine-Tuning", "Agentic AI", "Computer Vision", "RAG Systems"],
-    "looking_for": "AI/ML Engineering / Full-Stack Engineering roles",
+    "looking_for": "AI/ML Engineering/Full-Stack Engineering roles",
     "location"   : "Chicago, IL"
 }
 ```
