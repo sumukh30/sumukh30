@@ -152,7 +152,6 @@ Full-stack web portal serving 13M+ users at Oracle — REST APIs, frontend syste
 ## 🧠 What I'm Working On
 
 ⚡ Learning by developing scalable, production-ready AI applications using modern AI, cloud, and software engineering tools to solve real-world problems
-
 🎯 Targeting **AI/ML Engineer** and **Full-Stack Engineer** roles
 
 ---
